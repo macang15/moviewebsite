@@ -1,3 +1,17 @@
+# Website url
+https://macang15.github.io/moviewebsite/
+
+# Course
+ReactJS로 영화 웹 서비스 만들기
+https://nomadcoders.co/
+
+# Reference
+https://github.com/hymaychoi/movie-finder
+https://github.com/nomadcoders/react-for-beginners/commit/58aca2193a50ff21663ed4fb06b0785a8480c05e#diff-4753b2e6427841425517139f09f1342c320338443447af46169dc0f43a0f2cf3
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
